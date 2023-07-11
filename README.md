@@ -8,5 +8,5 @@ Inspired by John Smilga
 
 Check out John's awesome React Udemy Course<3 [Click here](https://www.udemy.com/course/react-tutorial-and-projects-course/)
 
-Please check him out:D
+Also Please check him out on Youtube:D
 [Coding Addict](https://www.youtube.com/@CodingAddict)
